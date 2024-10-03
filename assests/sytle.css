@@ -8,7 +8,11 @@ body {
 }
 
 .cartao {
-    margim: 1rem 1rem; 
+    margim: 1rem 1rem;
+    background-color: aqua; 
+    height: 20rem;
+    flex-grow: 1;
+    
 }
 
 
