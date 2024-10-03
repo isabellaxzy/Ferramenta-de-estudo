@@ -7,7 +7,9 @@ body {
     display: flex; 
 }
 
-
+.cartao {
+    margim: 1rem 1rem; 
+}
 
 
 
